@@ -38,6 +38,10 @@ ChefMate is a full-stack MERN web application that lets users generate personali
 
 ## 📁 Folder Structure
 
+
+
+
+
 project-root/
 │
 ├── client/ # React Frontend
@@ -57,9 +61,20 @@ project-root/
 │ ├── .env
 │ └── server.js
 
-yaml
-Copy
-Edit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
